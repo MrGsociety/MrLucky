@@ -1,0 +1,9 @@
+G:\Visual Studinyo\Mr.Lucky\Mr.Lucky\bin\Debug\Mr.Lucky.exe.config
+G:\Visual Studinyo\Mr.Lucky\Mr.Lucky\bin\Debug\Mr.Lucky.exe
+G:\Visual Studinyo\Mr.Lucky\Mr.Lucky\bin\Debug\Mr.Lucky.pdb
+G:\Visual Studinyo\Mr.Lucky\Mr.Lucky\obj\Debug\Mr.Lucky.Properties.Resources.resources
+G:\Visual Studinyo\Mr.Lucky\Mr.Lucky\obj\Debug\Mr.Lucky.csproj.GenerateResource.Cache
+G:\Visual Studinyo\Mr.Lucky\Mr.Lucky\obj\Debug\Mr.Lucky.exe
+G:\Visual Studinyo\Mr.Lucky\Mr.Lucky\obj\Debug\Mr.Lucky.pdb
+G:\Visual Studinyo\Mr.Lucky\Mr.Lucky\obj\Debug\Mr.Lucky.Mr_Lucky_main_menu.resources
+G:\Visual Studinyo\Mr.Lucky\Mr.Lucky\obj\Debug\Mr.Lucky.csprojResolveAssemblyReference.cache
